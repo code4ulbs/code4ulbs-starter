@@ -6,7 +6,6 @@ Proiecte actuale:
 - **Plata cu ora** - aplicatie web pentru gestiunea declaratiilor de "plata cu ora" ale cadrelor didactice
 - **Internships** - aplicatie web pentru gestiunea sesiunilor de practica ale studentilor
 - **Exams** - aplicatie web pentru examene tip grila (generare foi de examen si corectarea automata)
-- **Adeverinte studenti** - aplicatie web pentru secretariatele Universitatii, pentru emiterea de adeverinte de student
 - **Backstage** - configurarea unui server pentru serviciul Backstage
 - **Teme licenta** - managementul temelor de licenta
 
