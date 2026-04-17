@@ -12,8 +12,8 @@ Proiecte actuale:
 Repo-uri (ULBS organization) & detalii:
 
 - **ULBS Connect**:
-  - Frontend: https://github.com/ULBS/ulbs-connect-frontend — frontend pentru ULBS Connect.
-  - Backend: https://github.com/ULBS/ulbs-connect-backend — backend PHP pentru ULBS Connect (conține README și un folder `public/landing_page` cu documentație).
+  - Frontend: https://github.com/ULBS/ulbs-connect-frontend
+  - Backend: https://github.com/ULBS/ulbs-connect-backend
   - Tehnologii: React Native (frontend) + PHP Laravel (backend)
   - Documentatie proiect: https://github.com/code4ulbs/ulbs-connect-frontend/blob/main/docs/Project.md
 
