@@ -1,9 +1,9 @@
 Proiecte actuale:
 
-- **ULBS Connect** - aplicatie de mobil pentru studenti
-- **Schedule** - aplicatia de orar a universitatii
-- **Gradis** - aplicatie pentru raportarea activitatii de cercetare si administrative
-- **Plata cu ora** - aplicatie web pentru gestiunea declaratiilor de "plata cu ora" ale cadrelor didactice
+- **[ULBS Connect](https://connect.ulbsibiu.ro)** - aplicatie de mobil pentru studenti
+- **[Schedule](https://schedule.ulbsibiu.ro)** - aplicatia de orar a universitatii
+- **[Gradis](https://gradis.ulbsibiu.ro)** - aplicatie pentru raportarea activitatii de cercetare si administrative
+- **[Plata cu ora](https://platacuora.ulbsibiu.ro)** - aplicatie web pentru gestiunea declaratiilor de "plata cu ora" ale cadrelor didactice
 - **Internships** - aplicatie web pentru gestiunea sesiunilor de practica ale studentilor
 - **Exams** - aplicatie web pentru examene tip grila (generare foi de examen si corectarea automata)
 - **Backstage** - configurarea unui server pentru serviciul Backstage
@@ -11,7 +11,7 @@ Proiecte actuale:
 
 Repo-uri (ULBS organization) & detalii:
 
-- **ULBS Connect**: frontend & backend
+- **ULBS Connect**:
   - Frontend: https://github.com/ULBS/ulbs-connect-frontend — frontend pentru ULBS Connect.
   - Backend: https://github.com/ULBS/ulbs-connect-backend — backend PHP pentru ULBS Connect (conține README și un folder `public/landing_page` cu documentație).
   - Tehnologii: React Native (frontend) + PHP Laravel (backend)
