@@ -33,7 +33,7 @@ Repo-uri (ULBS organization) & detalii:
   - Documentatie proiect: https://github.com/code4ulbs/platacuora/blob/main/docs/Project.md
 
 - **Internships**: https://github.com/ULBS/internships — aplicație pentru internship-uri; repo structurat cu `backend/` și `frontend/` (ambele conțin README.md cu detalii despre componente).
-  - Tehnologii: PHP (Laravel/Blade for frontend templates) + backend PHP
+  - Tehnologii: PHP (Laravel/Blade for frontend templates) + frontend React
 - **Teme de licenta**: https://github.com/code4ulbs/teme_licenta - aplicatie pentru gestiunea temelor de licenta
    - Repo: https://github.com/code4ulbs/teme_licenta 
 
