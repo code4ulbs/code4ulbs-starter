@@ -17,8 +17,8 @@ Repo-uri (ULBS organization) & detalii:
   - Tehnologii: PHP, HTML, Shell, Blade
   - Documentatie proiect: https://github.com/code4ulbs/ulbs-connect-frontend/blob/main/docs/Project.md
 
-- **Schedule**: https://github.com/code4ulbs/schedule — găzduiește https://schedule.ulbsibiu.ro. Repo-ul include frontend si backend.
-  - Tehnologii: PHP, TypeScript, Vue, CSS, JavaScript, Hack, Python, HTML, Blade, Shell, Dockerfile, Batchfile
+- **Schedule**: https://github.com/code4ulbs/schedule — găzduiește https://schedule.ulbsibiu.ro. Repo-ul include frontend (Vue + Vite + Vuetify) și backend (Laravel/PHP).
+  - Tehnologii: Vue.js, TypeScript, Vuetify, Vite, PHP (Laravel), Blade, JavaScript, CSS, HTML, Docker, Dockerfile, Shell
   - Documentatie proiect: https://github.com/code4ulbs/schedule/blob/main/docs/Project.md
   - Tehnologii: PHP, TypeScript, Vue, CSS, JavaScript, Hack, Python, HTML, Blade, Shell, Dockerfile, Batchfile
 
