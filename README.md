@@ -943,3 +943,75 @@ For questions or assistance:
 ```
 
 ```
+
+
+# ✅ FINAL PROJECT CHECKLIST
+
+Before considering a project **complete or production-ready**, verify:
+
+## 🧱 Core
+
+- [ ] Linting configured and enforced  
+- [ ] CI/CD pipeline working  
+- [ ] Main branch protected  
+- [ ] AI instructions file exists  
+
+## 🏢 Organization
+
+- [ ] Team created  
+- [ ] Repo linked to team  
+- [ ] Project board active
+
+## 🧪 Testing
+
+- [ ] Unit tests ≥80% coverage  
+- [ ] Tests run on commit  
+- [ ] E2E tests implemented  
+- [ ] Daily E2E execution configured  
+
+## 🚀 Deployment
+
+- [ ] Staging environment exists  
+- [ ] Production environment exists  
+- [ ] CI/CD deploy works  
+- [ ] Uses ULBS runners  
+
+## 🐳 Infrastructure
+
+- [ ] Docker/Podman file exists 
+- [ ] Compose file configured and working
+
+## 🗄️ Database
+
+- [ ] Backups automated  
+- [ ] Audit system implemented  
+- [ ] Recovery strategy defined  
+
+## 🔒 Security
+
+- [ ] Google Auth implemented  
+- [ ] No passwords stored in plain text (DB & source code)
+- [ ] Secrets not committed to git
+- [ ] Dependabot version updates enabled in the repository's Security settings
+
+## 💻 Developer Experience
+
+- [ ] IDE setup documented 
+- [ ] Instructions on how to start project locally
+- [ ] Instructions on Debugging works (frontend and backend)
+
+## 🎨 Design
+
+- [ ] ULBS design system respected  
+- [ ] Responsive design implemented  
+- [ ] Accessibility checked  
+
+## 📝 Workflow
+
+- [ ] All work linked to issues  
+- [ ] PRs follow rules  
+- [ ] Reviews enforced  
+
+---
+
+**If even a few of these are unchecked, the project is not ready.**
