@@ -16,6 +16,8 @@ metadata:
 
 Official brand identity for **"Lucian Blaga" University of Sibiu (ULBS)**. Apply these rules whenever producing visual materials — social media graphics, presentations, documents, web components, print materials, or any other medium carrying the ULBS name.
 
+**Resources downloaded to:** `~/ulbs-brand-assets/logos/`
+
 ### Brand Manual
 
 Full visual identity manual (PDF, Google Drive — may require @ulbsibiu.ro auth):
@@ -28,11 +30,6 @@ Full visual identity manual (PDF, Google Drive — may require @ulbsibiu.ro auth
 
 ### Internal Use (@ulbsibiu.ro auth required)
 - [Letterhead, PPT templates, Business cards](https://drive.google.com/drive/folders/1zhryplc_EZl7oTrgcO6IEFaP8v-KOgF8?usp=sharing)
-
-### Local Assets in This Repo
-
-Some logo variants are included in this repo for quick access:
-- `assets/ulbs-logo/` — see the `assets/ulbs-logo/README.md` for available variants
 
 ## When to Use
 
@@ -119,14 +116,14 @@ Some logo variants are included in this repo for quick access:
 
 ### Logo Variants
 
-All logos are available in **PNG** (raster) and **PDF** (vector) formats on the ULBS website mediakit and Google Drive.
+All logos are available in **PNG** (raster) and **PDF** (vector) formats.
 
-| Variant | Type | Aspect |
+| Variant | Type | Dimensions (px) |
 |---|---|---|
-| **LOGO-ULBS_orizontal** | Horizontal — positive | Dark text/logo on light backgrounds |
-| **LOGO-ULBS_orizontal_negativ** | Horizontal — negative | White text/logo on dark backgrounds |
-| **LOGO-ULBS_vertical** | Vertical — positive | Dark text/logo on light backgrounds |
-| **LOGO-ULBS_vertical_negativ** | Vertical — negative | White text/logo on dark backgrounds |
+| **LOGO-ULBS_orizontal** | Horizontal — positive (dark text on light bg) | 1182 × 353 |
+| **LOGO-ULBS_orizontal_negativ** | Horizontal — negative (white text on dark bg) | 1181 × 352 |
+| **LOGO-ULBS_vertical** | Vertical — positive | 860 × 694 |
+| **LOGO-ULBS_vertical_negativ** | Vertical — negative | 861 × 694 |
 
 ### Logo Rules
 

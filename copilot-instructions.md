@@ -19,7 +19,7 @@ General information about the project and its architecture.
 ## Design System
 
 - Follow [ULBS Visual Guidelines](https://www.figma.com/design/6l4FWSiHc1u4oCUwRS3Q2s/ULBS-Visual-guidelines)
-- Full brand kit with colors, fonts, logos, and rules: [`brand/ulbs-brand.md`](brand/ulbs-brand.md)
+- Full brand kit with colors, fonts, logos, and rules: [`ulbs-brand/SKILL.md`](ulbs-brand/SKILL.md)
 
 ## Workflows & Runners
 
