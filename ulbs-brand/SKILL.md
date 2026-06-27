@@ -16,7 +16,9 @@ metadata:
 
 Official brand identity for **"Lucian Blaga" University of Sibiu (ULBS)**. Apply these rules whenever producing visual materials — social media graphics, presentations, documents, web components, print materials, or any other medium carrying the ULBS name.
 
-**Resources downloaded to:** `~/ulbs-brand-assets/logos/`
+**Assets in this folder:**
+- `SKILL.md` — brand guidelines (this file)
+- `logos/` — 4 logo variants (horizontal/vertical × positive/negative) + favicon
 
 ### Brand Manual
 
